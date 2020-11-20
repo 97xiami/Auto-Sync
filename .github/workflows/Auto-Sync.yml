@@ -42,7 +42,6 @@ jobs:
         git remote add upstream git@github.com:$jobs
         git pull upstream master
         git add .
-        git commit -m "Sync Upstream"
         git push
         cd ..
         rm -rf dir
