@@ -10,3 +10,4 @@ kkkgo/KMS_VL_ALL
 kkkgo/vlmcsd
 fw876/helloworld
 slorelee/wimbuilder2
+Dreamacro/clash
