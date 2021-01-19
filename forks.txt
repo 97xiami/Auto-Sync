@@ -1,5 +1,4 @@
 pbatard/rufus
-hanwckf/rt-n56u
 v2fly/v2ray-core
 2dust/v2rayNG
 2dust/v2rayN
